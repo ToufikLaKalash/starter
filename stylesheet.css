@@ -1,0 +1,11 @@
+body{
+    background-image: url(SAMI.jpg);
+    background-size: 200px 200px;
+    background-repeat: repeat;
+}
+
+h1{
+    color: red;
+    font-family: Arial;
+    font-size: 25px;
+}
